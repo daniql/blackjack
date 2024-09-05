@@ -13,7 +13,7 @@
 
             List<Card> playerHand = [];
             List<Card> dealerHand = [];
-            
+
             playerHand.Add(deck.Deal());
             Console.WriteLine($"Dealer has dealt you a {playerHand.Last()}");
             playerHand.Add(deck.Deal());
@@ -148,7 +148,7 @@
                     value += 11;
                     numOfAces++;
                 }
-                else if (card.Value >= Value.Ten)
+                else if (card.Value > Value.Ten)
                 {
                     value += 10;
                 }
