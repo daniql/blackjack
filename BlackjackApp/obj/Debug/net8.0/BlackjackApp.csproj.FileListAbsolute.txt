@@ -1,0 +1,15 @@
+/Users/danny/RiderProjects/blackjack/BlackjackApp/bin/Debug/net8.0/BlackjackApp
+/Users/danny/RiderProjects/blackjack/BlackjackApp/bin/Debug/net8.0/BlackjackApp.deps.json
+/Users/danny/RiderProjects/blackjack/BlackjackApp/bin/Debug/net8.0/BlackjackApp.runtimeconfig.json
+/Users/danny/RiderProjects/blackjack/BlackjackApp/bin/Debug/net8.0/BlackjackApp.dll
+/Users/danny/RiderProjects/blackjack/BlackjackApp/bin/Debug/net8.0/BlackjackApp.pdb
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.AssemblyInfoInputs.cache
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.AssemblyInfo.cs
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.csproj.CoreCompileInputs.cache
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.sourcelink.json
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.dll
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/refint/BlackjackApp.dll
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.pdb
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/BlackjackApp.genruntimeconfig.cache
+/Users/danny/RiderProjects/blackjack/BlackjackApp/obj/Debug/net8.0/ref/BlackjackApp.dll
