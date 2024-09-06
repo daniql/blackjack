@@ -24,3 +24,4 @@ If the dealer stopped with less than 21 score then whoever has the higher total 
 
 MODIFICATIONS:
 - Dealer draws two cards at start of game and reveals one abiding more closely to classic blackjack rules
+- added push ending
